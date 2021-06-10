@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["areas"],{"1b3e":function(e,t,n){"use strict";n("6180")},6180:function(e,t,n){},bab7:function(e,t,n){"use strict";n.r(t);var a=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},s=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"areas"},[n("h1",[e._v("Areas")])])}],r=(n("1b3e"),n("2877")),c={},i=Object(r["a"])(c,a,s,!1,null,"81a36fa4",null);t["default"]=i.exports}}]);
-//# sourceMappingURL=areas.2310999e.js.map
